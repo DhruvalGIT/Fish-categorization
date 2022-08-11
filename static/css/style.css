@@ -22,11 +22,11 @@ body {
 	font-size: 18px;
 	text-align:center;
 	letter-spacing:1.2px;
-	 background-image: url("https://ichef.bbci.co.uk/news/976/cpsprodpb/12C76/production/_116381967_facemask.jpg");
-    height: 100%; 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+	background-image: url("https://ichef.bbci.co.uk/news/976/cpsprodpb/12C76/production/_116381967_facemask.jpg");
+	height: 100%; 
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3E1D6D', endColorstr='#092756',GradientType=1 );
 
 }
